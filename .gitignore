@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+dist.zip
+public/icons/*
+
+scripts/generate-icons.mjs
+src/assets/fonts/*
+
