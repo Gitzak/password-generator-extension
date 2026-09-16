@@ -1,5 +1,7 @@
 # 🔐 Password Generator Extension
 
+<img width="1400" height="560" alt="1" src="https://github.com/user-attachments/assets/fc11b1be-e17b-4864-8d99-88c28846d31e" />
+
 A simple, fast, and secure browser extension for generating strong random passwords directly from your browser.
 
 Built with **Vue 3**, **TypeScript**, and **Vite**.
